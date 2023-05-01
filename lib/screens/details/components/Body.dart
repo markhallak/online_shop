@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:shop_app/constants.dart';
 import 'package:shop_app/models/Product.dart';
 
-import 'add_to_cart.dart';
-import 'color_and_size.dart';
-import 'counter_with_fav_btn.dart';
+import 'AddToCart.dart';
+import 'ColorAndSize.dart';
+import 'CounterWithFavBtn.dart';
+import 'ProductTitleWithImage.dart';
 import 'description.dart';
-import 'product_title_with_image.dart';
 
 class Body extends StatelessWidget {
   final Product product;
