@@ -9,6 +9,4 @@ The Online Shop app UI consists of two pages: one for the product page, featurin
 
 ### Online Shop App UI
 
-![intro](intro.gif)
-
 ![App UI](/ui.png)
